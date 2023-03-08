@@ -1,0 +1,72 @@
+C:\Users\Elyahu\source\repos\Linked_List\Linked_List\bin\Debug\Linked_List.exe.config
+C:\Users\Elyahu\source\repos\Linked_List\Linked_List\bin\Debug\Linked_List.exe
+C:\Users\Elyahu\source\repos\Linked_List\Linked_List\bin\Debug\Linked_List.pdb
+C:\Users\Elyahu\source\repos\Linked_List\Linked_List\obj\Debug\Linked_List.csproj.AssemblyReference.cache
+C:\Users\Elyahu\source\repos\Linked_List\Linked_List\obj\Debug\Linked_List.csproj.SuggestedBindingRedirects.cache
+C:\Users\Elyahu\source\repos\Linked_List\Linked_List\obj\Debug\Linked_List.csproj.CoreCompileInputs.cache
+C:\Users\Elyahu\source\repos\Linked_List\Linked_List\obj\Debug\Linked_List.exe
+C:\Users\Elyahu\source\repos\Linked_List\Linked_List\obj\Debug\Linked_List.pdb
+E:\סמסטר א\מבנה נתונים\finalProj\Linked_List\Linked_List\bin\Debug\Linked_List.exe.config
+E:\סמסטר א\מבנה נתונים\finalProj\Linked_List\Linked_List\bin\Debug\Linked_List.exe
+E:\סמסטר א\מבנה נתונים\finalProj\Linked_List\Linked_List\bin\Debug\Linked_List.pdb
+E:\סמסטר א\מבנה נתונים\finalProj\Linked_List\Linked_List\obj\Debug\Linked_List.csproj.AssemblyReference.cache
+E:\סמסטר א\מבנה נתונים\finalProj\Linked_List\Linked_List\obj\Debug\Linked_List.csproj.SuggestedBindingRedirects.cache
+E:\סמסטר א\מבנה נתונים\finalProj\Linked_List\Linked_List\obj\Debug\Linked_List.csproj.CoreCompileInputs.cache
+E:\סמסטר א\מבנה נתונים\finalProj\Linked_List\Linked_List\obj\Debug\Linked_List.exe
+E:\סמסטר א\מבנה נתונים\finalProj\Linked_List\Linked_List\obj\Debug\Linked_List.pdb
+C:\Users\Elyahu\Desktop\privaet\פרויקט גמר מבנה נתונים\Linked_List\Linked_List\bin\Debug\Linked_List.exe.config
+C:\Users\Elyahu\Desktop\privaet\פרויקט גמר מבנה נתונים\Linked_List\Linked_List\bin\Debug\Linked_List.exe
+C:\Users\Elyahu\Desktop\privaet\פרויקט גמר מבנה נתונים\Linked_List\Linked_List\bin\Debug\Linked_List.pdb
+C:\Users\Elyahu\Desktop\privaet\פרויקט גמר מבנה נתונים\Linked_List\Linked_List\obj\Debug\Linked_List.csproj.AssemblyReference.cache
+C:\Users\Elyahu\Desktop\privaet\פרויקט גמר מבנה נתונים\Linked_List\Linked_List\obj\Debug\Linked_List.csproj.SuggestedBindingRedirects.cache
+C:\Users\Elyahu\Desktop\privaet\פרויקט גמר מבנה נתונים\Linked_List\Linked_List\obj\Debug\Linked_List.csproj.CoreCompileInputs.cache
+C:\Users\Elyahu\Desktop\privaet\פרויקט גמר מבנה נתונים\Linked_List\Linked_List\obj\Debug\Linked_List.exe
+C:\Users\Elyahu\Desktop\privaet\פרויקט גמר מבנה נתונים\Linked_List\Linked_List\obj\Debug\Linked_List.pdb
+D:\סמסטר א\מבנה נתונים\finalProj\1\Linked_List\Linked_List\bin\Debug\Linked_List.exe.config
+D:\סמסטר א\מבנה נתונים\finalProj\1\Linked_List\Linked_List\bin\Debug\Linked_List.exe
+D:\סמסטר א\מבנה נתונים\finalProj\1\Linked_List\Linked_List\bin\Debug\Linked_List.pdb
+D:\סמסטר א\מבנה נתונים\finalProj\1\Linked_List\Linked_List\obj\Debug\Linked_List.csproj.AssemblyReference.cache
+D:\סמסטר א\מבנה נתונים\finalProj\1\Linked_List\Linked_List\obj\Debug\Linked_List.csproj.SuggestedBindingRedirects.cache
+D:\סמסטר א\מבנה נתונים\finalProj\1\Linked_List\Linked_List\obj\Debug\Linked_List.csproj.CoreCompileInputs.cache
+D:\סמסטר א\מבנה נתונים\finalProj\1\Linked_List\Linked_List\obj\Debug\Linked_List.exe
+D:\סמסטר א\מבנה נתונים\finalProj\1\Linked_List\Linked_List\obj\Debug\Linked_List.pdb
+E:\סמסטר א\מבנה נתונים\finalProj\1\Linked_List\Linked_List\obj\Debug\Linked_List.csproj.AssemblyReference.cache
+E:\סמסטר א\מבנה נתונים\finalProj\1\Linked_List\Linked_List\obj\Debug\Linked_List.csproj.SuggestedBindingRedirects.cache
+E:\סמסטר א\מבנה נתונים\finalProj\1\Linked_List\Linked_List\obj\Debug\Linked_List.csproj.CoreCompileInputs.cache
+E:\סמסטר א\מבנה נתונים\finalProj\1\Linked_List\Linked_List\obj\Debug\Linked_List.exe
+E:\סמסטר א\מבנה נתונים\finalProj\1\Linked_List\Linked_List\obj\Debug\Linked_List.pdb
+E:\סמסטר א\מבנה נתונים\finalProj\1\Linked_List\Linked_List\bin\Debug\Linked_List.exe.config
+E:\סמסטר א\מבנה נתונים\finalProj\1\Linked_List\Linked_List\bin\Debug\Linked_List.exe
+E:\סמסטר א\מבנה נתונים\finalProj\1\Linked_List\Linked_List\bin\Debug\Linked_List.pdb
+E:\סמסטר א\מבנה נתונים\finalProj\3\Linked_List\Linked_List\bin\Debug\Linked_List.exe.config
+E:\סמסטר א\מבנה נתונים\finalProj\3\Linked_List\Linked_List\bin\Debug\Linked_List.exe
+E:\סמסטר א\מבנה נתונים\finalProj\3\Linked_List\Linked_List\bin\Debug\Linked_List.pdb
+E:\סמסטר א\מבנה נתונים\finalProj\3\Linked_List\Linked_List\obj\Debug\Linked_List.csproj.AssemblyReference.cache
+E:\סמסטר א\מבנה נתונים\finalProj\3\Linked_List\Linked_List\obj\Debug\Linked_List.csproj.SuggestedBindingRedirects.cache
+E:\סמסטר א\מבנה נתונים\finalProj\3\Linked_List\Linked_List\obj\Debug\Linked_List.csproj.CoreCompileInputs.cache
+E:\סמסטר א\מבנה נתונים\finalProj\3\Linked_List\Linked_List\obj\Debug\Linked_List.exe
+E:\סמסטר א\מבנה נתונים\finalProj\3\Linked_List\Linked_List\obj\Debug\Linked_List.pdb
+E:\סמסטר א\מבנה נתונים\finalProj\6\Linked_List\Linked_List\bin\Debug\Linked_List.exe.config
+E:\סמסטר א\מבנה נתונים\finalProj\6\Linked_List\Linked_List\bin\Debug\Linked_List.exe
+E:\סמסטר א\מבנה נתונים\finalProj\6\Linked_List\Linked_List\bin\Debug\Linked_List.pdb
+E:\סמסטר א\מבנה נתונים\finalProj\6\Linked_List\Linked_List\obj\Debug\Linked_List.csproj.AssemblyReference.cache
+E:\סמסטר א\מבנה נתונים\finalProj\6\Linked_List\Linked_List\obj\Debug\Linked_List.csproj.SuggestedBindingRedirects.cache
+E:\סמסטר א\מבנה נתונים\finalProj\6\Linked_List\Linked_List\obj\Debug\Linked_List.csproj.CoreCompileInputs.cache
+E:\סמסטר א\מבנה נתונים\finalProj\6\Linked_List\Linked_List\obj\Debug\Linked_List.exe
+E:\סמסטר א\מבנה נתונים\finalProj\6\Linked_List\Linked_List\obj\Debug\Linked_List.pdb
+C:\Users\Eliahu Anavi\Desktop\nir\privaet\פרויקט גמר מבנה נתונים\10\Linked_List\Linked_List\bin\Debug\Linked_List.exe.config
+C:\Users\Eliahu Anavi\Desktop\nir\privaet\פרויקט גמר מבנה נתונים\10\Linked_List\Linked_List\bin\Debug\Linked_List.exe
+C:\Users\Eliahu Anavi\Desktop\nir\privaet\פרויקט גמר מבנה נתונים\10\Linked_List\Linked_List\bin\Debug\Linked_List.pdb
+C:\Users\Eliahu Anavi\Desktop\nir\privaet\פרויקט גמר מבנה נתונים\10\Linked_List\Linked_List\obj\Debug\Linked_List.csproj.AssemblyReference.cache
+C:\Users\Eliahu Anavi\Desktop\nir\privaet\פרויקט גמר מבנה נתונים\10\Linked_List\Linked_List\obj\Debug\Linked_List.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eliahu Anavi\Desktop\nir\privaet\פרויקט גמר מבנה נתונים\10\Linked_List\Linked_List\obj\Debug\Linked_List.csproj.CoreCompileInputs.cache
+C:\Users\Eliahu Anavi\Desktop\nir\privaet\פרויקט גמר מבנה נתונים\10\Linked_List\Linked_List\obj\Debug\Linked_List.exe
+C:\Users\Eliahu Anavi\Desktop\nir\privaet\פרויקט גמר מבנה נתונים\10\Linked_List\Linked_List\obj\Debug\Linked_List.pdb
+E:\סמסטר א\מבנה נתונים\finalProj\Linked_List\Linked_List\Linked_List\bin\Debug\Linked_List.exe.config
+E:\סמסטר א\מבנה נתונים\finalProj\Linked_List\Linked_List\Linked_List\bin\Debug\Linked_List.exe
+E:\סמסטר א\מבנה נתונים\finalProj\Linked_List\Linked_List\Linked_List\bin\Debug\Linked_List.pdb
+E:\סמסטר א\מבנה נתונים\finalProj\Linked_List\Linked_List\Linked_List\obj\Debug\Linked_List.csproj.AssemblyReference.cache
+E:\סמסטר א\מבנה נתונים\finalProj\Linked_List\Linked_List\Linked_List\obj\Debug\Linked_List.csproj.SuggestedBindingRedirects.cache
+E:\סמסטר א\מבנה נתונים\finalProj\Linked_List\Linked_List\Linked_List\obj\Debug\Linked_List.csproj.CoreCompileInputs.cache
+E:\סמסטר א\מבנה נתונים\finalProj\Linked_List\Linked_List\Linked_List\obj\Debug\Linked_List.exe
+E:\סמסטר א\מבנה נתונים\finalProj\Linked_List\Linked_List\Linked_List\obj\Debug\Linked_List.pdb
